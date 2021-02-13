@@ -1,4 +1,4 @@
-package domain;
+package claire.springframework.spring5recipeapp.domain;
 
 import javax.persistence.*;
 
